@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the temple, the Svnday after the church was opened being then newly repaird, adorned and beautified at the joynt expense of the two honorable societies / by John Standish.</title>
+            <author>Standish, John, d. 1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61269</idno>
+            <idno type="STC">Wing S5219</idno>
+            <idno type="STC">ESTC R33852</idno>
+            <idno type="EEBO-CITATION">13584789</idno>
+            <idno type="OCLC">ocm 13584789</idno>
+            <idno type="VID">100510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100510)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1049:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the temple, the Svnday after the church was opened being then newly repaird, adorned and beautified at the joynt expense of the two honorable societies / by John Standish.</title>
+                  <author>Standish, John, d. 1686.</author>
+               </titleStmt>
+               <extent>[6], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Clark, for Robert Clavel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIII [1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  John X, 22 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100510:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the TEMPLE, THE <hi>S<g ref="char:V">Ʋ</g>NDAY</hi> After the CHURCH was Opened; being then newly Repaired, Adorned and Beautified at the Joynt Expence OF THE TWO <hi>Honourable Societies.</hi>
+            </p>
+            <p>By JOHN STANDISH, D.D. and Chap<g ref="char:EOLhyphen"/>lain in Ordinary to His Majeſty.</p>
+            <q>How Dreadful is this Place! Surely this is none other but the Houſe of GOD, <bibl>
+                  <hi>Gen. 28.17.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Clark,</hi> for <hi>Robert Clavel</hi> at the Sign of the <hi>Peacock</hi> at the Weſt-End of St. <hi>Pauls,</hi> MDCLXXXIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100510:2"/>
+            <pb facs="tcp:100510:2"/>
+            <head>To the Honourable S<hi rend="sup">R</hi> 
+               <hi>ROBERT SAWYER</hi> K<hi rend="sup">T</hi>, THE KINGS Attorney General.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis Diſcourſe was meant <hi>honeſtly,</hi> (at leaſt) and ſo far from the leaſt thought of giving just <hi>Offence,</hi> that an awful regard of God, and a due reſpect to <hi>man,</hi> are the two main wheels it moves upon, for it was deſigned <hi>chiefly</hi> to aſſert, and main<g ref="char:EOLhyphen"/>tain that <hi>Reverence</hi> which Men of all <hi>Nati<g ref="char:EOLhyphen"/>ons</hi> and <hi>Languages</hi> have ever with one con<g ref="char:EOLhyphen"/>ſent agreed to be due to the <hi>Houſe</hi> of God, the <hi>Place where his Honour dwelleth;</hi> and
+<pb facs="tcp:100510:3"/>next to that, to congratulate and applaud the the voluntary, ſeaſonable, and exemplary Zeal of thoſe two <hi>Honourable Societies,</hi> who being <hi>grieved to ſee</hi> their <hi>Sion lying</hi> (ſomewhat) <hi>in the duſt,</hi> ſpared for no coſt or charges to <hi>renew</hi> the Youth, and add more Grace and <hi>Beauty</hi> to that incomparable <hi>Monument</hi> of <hi>ancient</hi> Piety.</p>
+            <p>Before I made one ſtep towards drawing the Platform <hi>thereof,</hi> I conſidered with my ſelf that the <hi>Subject</hi> was a little <hi>nice,</hi> and the <hi>Age</hi> we live in not a little <hi>captious;</hi> and therefore reſolved to take <hi>better Judgments</hi> than my own along with me, leſt I ſhould be new and ſingular in my Notion, or be thought to <hi>lean</hi> wholly <hi>to my own underſtanding,</hi> againſt <hi>Solomon's</hi> expreſs and ſafe Caution. For this end and reaſon I conſulted and peruſed ſome of the beſt Authors thereupon, and of our own <hi>Church,</hi> and choſe to ſpeak <hi>their</hi> ſence (and that in their own very words ſometimes) that I might neither ſtand nor fall <hi>alone,</hi> nor want ſufficient <hi>Bail</hi> in caſe of an Arreſt upon an <hi>Acti<g ref="char:EOLhyphen"/>on</hi> of <hi>Scandal.</hi>
+            </p>
+            <pb facs="tcp:100510:3"/>
+            <p>This <hi>abundans Cautela</hi> notwithſtanding, ſome of my <hi>Hearers</hi> (as it ſhould ſeem) were offended at me, and others more by <hi>hear-ſay,</hi> as if I had gone beyond my <hi>line,</hi> ſtretched a point of the <hi>Divine Law,</hi> and tranſgreſſed the bounds of <hi>Modeſty, Truth,</hi> and <hi>Soberneſs.</hi>
+            </p>
+            <p>I muſt confeſs <hi>Sir</hi> I do hold <hi>Sacrilege</hi> to be not only a <hi>Sin,</hi> but one of the firſt <hi>Magni<g ref="char:EOLhyphen"/>tude,</hi> and if <hi>any man be contentious,</hi> whoſe intereſt bids him think otherwiſe, <hi>we have no ſuch Cuſtom, nor the Churches of God.</hi>
+            </p>
+            <p>I acknowledge further (if that be my crime) that I do reſtect upon thoſe late goodly Reformers of ours, who preſumed to buy and ſell our <hi>Churches</hi> with their appurtenances, as <hi>guil<g ref="char:EOLhyphen"/>ty</hi> of that <hi>ſin;</hi> but that, not ſo much to rub up an old ſore, as to prevent a new wound, and diſhearten allwiſe men from invading the <hi>Churches</hi> patrimony for the future.</p>
+            <p>Bolder <hi>Stroaks</hi> then theſe, or more un<g ref="char:EOLhyphen"/>wary <hi>Paſſages</hi> I do not find in the whole <hi>Peice;</hi> and therefore leaſt a groundleſs <hi>noiſe</hi>
+               <pb facs="tcp:100510:4"/>ſhould grow into credit to mine and my <hi>Fun<g ref="char:EOLhyphen"/>ctions</hi> prejudice, as unpoliſhed as it is, I am forced to make it <hi>Publick,</hi> without any man<g ref="char:EOLhyphen"/>ner of alteration, diminution, or addition of one ſyllable therein, excepting only the marginal Quotations.</p>
+            <p>And now <hi>Sir,</hi> ſince You were pleaſed to give your ſelf the trouble of reading over my <hi>Notes,</hi> and to declare you found nothing in <hi>them</hi> but what might admit of a very fair conſtruction, I take the humble boldneſs to ſend them abroad un<g ref="char:EOLhyphen"/>der your Patronage; not doubting but that, as it is the buſineſs of your high Place, and <hi>Royal</hi> Truſt, ſometimes to implead and proſecute the <hi>Guilty,</hi> (as you are <hi>Procurator Caeſaris,</hi> in the old <hi>Roman</hi> style) ſo you are ever at leiſure to acquit and protect the <hi>Innocent.</hi>
+            </p>
+            <p>In the number of which I preſume to rec<g ref="char:EOLhyphen"/>kon,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Unworthy Servant, <hi>JOHN STANDISH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100510:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>St.</hi> JOHN, X. XXII.</bibl>
+                  <p>And it was at <hi>Jeruſalem</hi> the Feaſt of the Dedication, and it was Winter.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T was great Inſolence in thoſe modern <hi>Jews</hi> to make <hi>the Houſe of Prayer</hi> a Shop of Merchandiſe,
+<note place="margin">
+                  <hi>St.</hi> Mat. 21.13.</note> 
+               <hi>a Den of Thieves;</hi> and yet <hi>they</hi> have been quite outdone in Pro<g ref="char:EOLhyphen"/>phaneſs of late years by ſome profeſſed <hi>Chriſtians,</hi> who turned the <hi>TEMPLE</hi> of <hi>GOD,</hi>
+               <note place="margin">St. Paul's Lond.</note> not only into an <hi>EXCHANGE</hi> for men, but a <hi>STA<g ref="char:EOLhyphen"/>BLE</hi> for horſes too: as if they meant to fulfill that Prophecy over again in the Li<g ref="char:EOLhyphen"/>teral ſence,
+<note place="margin">
+                  <hi>St.</hi> Mat. 24.15.</note> of <hi>the Abomination of Deſolation ſtanding where it ought not.</hi>
+            </p>
+            <p>
+               <hi>Sacriledge</hi> (however condemned by Di<g ref="char:EOLhyphen"/>vine, Civil, Saxon, Canon, Statute and
+<pb n="2" facs="tcp:100510:5"/>Common Law) was then thought a piece of <hi>Religion,</hi> an infallible ſign of a <hi>Godly</hi> man; and he was <hi>ſtrongeſt in the faith,</hi> who believed no after-reckoning for it; they went for the <hi>ſtrongest</hi> Chriſtians, who could ſwallow down, and without the leaſt reluctancy of Conſcience, digeſt the Fatteſt <hi>Conſecrated</hi> morſels; it was then deemed no more robbery to ſtrip the <hi>Spouſe</hi> of Chriſt both of her Dowry and Beauty, than for the <hi>Iſraelites</hi> of old to borrow Jewels and ear-rings of the <hi>Egyptians</hi> though by Gods expreſs Command.
+<note place="margin">Exod. 11.2.</note> They made no more ſcruple of pillaging <hi>Churches,</hi> than <hi>Dionyſius</hi> did of the ſpoiling the Temples of <hi>Idols;</hi> who ſaid pleaſantly of <hi>Aeſculapius</hi> his golden <hi>Beard</hi> he had cut off,
+<note place="margin">
+                  <hi>Lactant.</hi> De <hi>Div. Inſtit. L.</hi> 2. <hi>c.</hi> 4.</note> that it did not become him by any means, becauſe his Father <hi>Apollo</hi> wore <hi>none;</hi> and then ſtript <hi>Jupiter</hi> himſelf of his Veſt of <hi>Gold,</hi> ſaying, that was to <hi>heavy</hi> for Summer, and too cold for Winter; and one of <hi>Broad-Cloth</hi> would better ſerve <hi>him</hi> for all weathers.</p>
+            <p>Nor may we ſuppoſe the Rapes then committed were only the extravagant heats of ſome vulgar Fools; for (not to
+<pb n="3" facs="tcp:100510:5"/>mention that face of Authority, thoſe <hi>higher Powers,</hi> or forces rather, that ſet them on work) the Wiſe Aſſembly of <hi>Divines</hi> at <hi>Weſtminſter,</hi> ſeem to be much of the ſame opinion in their Annotations upon the <hi>Bible:</hi> wherein we doe not find a ſylla<g ref="char:EOLhyphen"/>ble of any ſuch ſin as <hi>Sacrilege</hi> under the Goſpel; they either did not <hi>believe</hi> it, or elſe thought it not ſeaſonable to <hi>declare</hi> it, (when never more need) how loudly ſo<g ref="char:EOLhyphen"/>ever Saint <hi>Paul</hi> makes the challenge,
+<note place="margin">Rom. 2.22.</note> 
+               <hi>thou that abhorreſt Idols doſt thou commit Sacrilege?</hi> The Argument ſeems to proceed <hi>a Minori,</hi> and then the <hi>Latter</hi> muſt be the greater ſin of the <hi>two;</hi> for <hi>Idolatry</hi> is at the worſt but worſhipping a <hi>falſe</hi> Deity, whereas <hi>Sacri<g ref="char:EOLhyphen"/>lege</hi> is an owning indeed, but withal, a contemning, invading, and robbing of the only <hi>true GOD.</hi>
+            </p>
+            <p>In the mean while they thought much to allow our Temples any more Holineſs than their common Kitchens, or Parlors at beſt: they turned God and his Service out of poſſeſſion to make room for <hi>Baal Berith,</hi>
+               <note place="margin">Judges 8.33.</note> that Idol of the Covenant: they propha<g ref="char:EOLhyphen"/>ned our Altars with the unhallowed Sa<g ref="char:EOLhyphen"/>crifices and <hi>strange fire</hi> of the Sons of <hi>Corah,</hi>
+               <pb n="4" facs="tcp:100510:6"/>and furiouſly decryed all reverence in the houſe of God for Superſtition.</p>
+            <p>But bleſſed be Almighty God, who hath long ſince miraculouſly confuted their a<g ref="char:EOLhyphen"/>bominable Principles, and Practices, and vindicated the Honour of his own <hi>Reverend</hi> Name;
+<note place="margin">Pſal. 111.9.</note> who hath ſignally approved the pious bounty of ſuch as <hi>loved our Nation,
+<note place="margin">
+                     <hi>St.</hi> Luke 7.5.</note> and built us Synagogues,</hi> by driving thoſe zealous Mony-changers out of his Tem<g ref="char:EOLhyphen"/>ple, and reſtoring the <hi>Holy</hi> Place to that Primitive uſe, thoſe <hi>ſacred</hi> Offices for which it was at firſt deſigned and ſet a<g ref="char:EOLhyphen"/>part by ſolemn Dedication.</p>
+            <p>Now from theſe words of the Evangeliſt, I ſhall endeavour to reſolve theſe three Enquiries.
+<list>
+                  <item>1. What Feaſt of <hi>Dedication</hi> is here ſpo<g ref="char:EOLhyphen"/>ken of?</item>
+                  <item>2. By what warrant the Jews did of old, and Chriſtians do ſince, <hi>Dedicate</hi> Places to Gods Service?</item>
+                  <item>3. How far forth, and in what ſence places thus <hi>Dedicated</hi> are to be eſteemed Holy?</item>
+               </list>
+            </p>
+            <pb n="5" facs="tcp:100510:6"/>
+            <p n="1">I. I begin with the firſt, What Feaſt of <hi>Dedication</hi> is here ſpoken of? the reaſon of the doubt is, becauſe we read of three ſeve<g ref="char:EOLhyphen"/>ral feaſts of <hi>Dedication</hi> kept by the <hi>Jews</hi> at divers times, and different occaſions. The firſt was at the <hi>dedication</hi> of <hi>Solomons</hi> Temple, the ſolemnity &amp; magnificence whereof you may ſee at large, 1 <hi>Kin.</hi> 8. The 2d. was, of the ſecond Temple rebuilt out of the Ruines of the firſt, by <hi>Zerubbabel,</hi> after the Jews return from their Captivity at <hi>Babylon,</hi> the ſtory whereof is recorded, <hi>Ezra,</hi> ch. 6. and then beſides thoſe, we read of a third <hi>Dedication</hi> of the Temple and Altar by <hi>Judas</hi> the <hi>Maccabee,</hi> after <hi>Antiochus Epiphanes</hi> had defiled and prophaned them with Idoll-ſa<g ref="char:EOLhyphen"/>crifices and all uncleanneſs, 1 <hi>Maccab.</hi> c. 4. Now that the Feaſt of <hi>Dedication</hi> here ſpo<g ref="char:EOLhyphen"/>ken of, was the laſt of theſe, that by <hi>Judas,</hi> is moſt evident by theſe two Reaſons.</p>
+            <p n="1">1. It no where appeares that either of the two former Feaſts were annually re<g ref="char:EOLhyphen"/>newed, or obſerved any more then once; but of the laſt we find expreſly that <hi>Judas</hi> and his Brethren ordained that the days of the <hi>dedication</hi> of the Altar ſhould be kept in their ſeaſon, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from year to
+<pb n="6" facs="tcp:100510:7"/>year, by the ſpace of eight days, 1 <hi>Macc.</hi> 4.59.</p>
+            <p n="2">2. Admitting (though vve need not) that the <hi>dedication</hi> of the firſt or ſecond Temple, or both, might be commemorated by an annual feaſt (notwithſtanding all records are ſilent in the caſe) yet that this Feaſt here ſpoken of, muſt needs be meant of the <hi>dedication</hi> of the Altar, is further evident from the circumſtance of <hi>time,</hi> not omitted by our Evangeliſt. <hi>[And it was Winter.]</hi>
+            </p>
+            <p>Which punctually accords with the firſt Inſtitution hereof in the forecited place,
+<note place="margin">1 Macc. 4.</note> where it is ſaid to be in the Moneth <hi>Caſleu,</hi> their ninth Month, anſwering to our <hi>De<g ref="char:EOLhyphen"/>cember;</hi> whereas <hi>Solomon's</hi> Temple was de<g ref="char:EOLhyphen"/>dicated in Autumn, in the Moneth <hi>Etha<g ref="char:EOLhyphen"/>nim,</hi> near our <hi>September,</hi> 1 <hi>Kings</hi> 8. And the <hi>ſecond</hi> Temple in the Spring, in their twelfth Month, called <hi>Adar,</hi> (as we read, 1 <hi>Eſdras</hi> 7.5.) that is about our <hi>March.</hi>
+            </p>
+            <p>The firſt, and leaſt material Enquiry being t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s briefly, and fully reſolved, I proceed to the Second.</p>
+            <pb n="7" facs="tcp:100510:7"/>
+            <p n="2">II. By what Warrant the <hi>Jews</hi> did of old, and Chriſtians do ſince, <hi>Dedicate</hi> pla<g ref="char:EOLhyphen"/>ces to Gods ſervice?</p>
+            <p>And in order to our reſolution hereof, it will not be amiſs to premiſe and ob<g ref="char:EOLhyphen"/>ſerve, that both <hi>Jews</hi> and <hi>Chriſtians</hi> did and have all along <hi>de facto</hi> erected and <hi>dedicated</hi> certain Places for <hi>GODS</hi> Publick Wor<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p n="1">1. It is without diſpute, and generally acknowledged, that the <hi>Jews</hi> had many other places <hi>dedicated</hi> to Gods ſervice, (be<g ref="char:EOLhyphen"/>ſides the Temple) which, from their reli<g ref="char:EOLhyphen"/>gious Aſſemblies there held, they com<g ref="char:EOLhyphen"/>monly called <hi>Synagogues.</hi> Of theſe their owne Writers tell us, there were 480 in <hi>Jeruſalem,</hi> and as many with proportion, in other Cities. The Temple was as it were, the <hi>Cathedral,</hi> or <hi>Mother</hi>-Church, <hi>Synagogues</hi> much like our <hi>Pariſh-Churches,</hi> or <hi>Chappells</hi> of Eaſe. and this only difference is to be noted between them, that the <hi>Ceremonial</hi> Service of God, by <hi>Sacrifice, Oblations,</hi> &amp;c. was confined to the Temple, and unlaw<g ref="char:EOLhyphen"/>full any where elſe; but his <hi>Morall</hi> ſervice was common to all <hi>Synagouges,</hi> as well as
+<pb n="8" facs="tcp:100510:8"/>the <hi>Temple.</hi> For there the Law was ſolemn<g ref="char:EOLhyphen"/>ly read and expounded to the People, and the Peoples prayers offered unto God. The only mention made of <hi>Synagogues</hi> in the old Teſtament,
+<note place="margin">Pſ. 74.7, 8, &amp; 84.13.</note> is in the <hi>Pſalmes,</hi> where they are ſtyled <hi>Sanctuaries;</hi> though the <hi>Talmud</hi>-Doctors extend that Precept to them alſo,
+<note place="margin">Levit. 19.30.</note> 
+               <hi>Ye ſhall obſerve my Sabbaths, and reverence my Sanctuary.</hi> Whereupon <hi>Philo</hi> calls them places of ſecondary <hi>holineſs,</hi> to wit, in reſpect of the <hi>Temple,</hi> by vertue and in imitation whereof, they were ſet apart and <hi>dedicated</hi> to an <hi>holy</hi> uſe. But then the new Teſtament is ſo plain and fre<g ref="char:EOLhyphen"/>quent in telling us that they had divers <hi>Synagogues</hi> in all their Cities, and daily paid their reverence thereto, as alſo of our Saviour's often reſorting thither to ex<g ref="char:EOLhyphen"/>pound the Law, and teach the people, that it were ſuperfluous to enlarge further on this Particular.</p>
+            <p>Whether in imitation of the <hi>Jews,</hi> or from a Principle of their own natural Law, teaching them, that whatever God they worſhipped, they muſt have ſome convenient place to do it in, is uncertain: but this is moſt certain, that the very <hi>Hea<g ref="char:EOLhyphen"/>then</hi>
+               <pb n="9" facs="tcp:100510:8"/>themſelves did generally erect Magni<g ref="char:EOLhyphen"/>ficent <hi>Temples</hi> and <hi>Altars,</hi> not only at <hi>Rome, Epheſus,</hi> and <hi>Athens</hi> (where one we find in<g ref="char:EOLhyphen"/>ſcribed <hi>TO THE <g ref="char:V">Ʋ</g>NKNOWN GOD</hi>) and other famous Cities, but almoſt every where throughout the World. Only ſome wandering <hi>Scythians</hi> are ſaid to have none; the reaſon was becauſe they had no Houſes of their own, but like ſalvage creatures, rambled daily from one place to another. And of all other Sects of <hi>Philoſo<g ref="char:EOLhyphen"/>phers,</hi> only the <hi>Stoicks</hi> forbad building of <hi>Temples,</hi> either out of deriſion of that vulgar error, that Deities were kept <hi>pri<g ref="char:EOLhyphen"/>ſoners</hi> and confined within thoſe Walls; or elſe out of the ſingular <hi>diſſenting</hi> humor of that <hi>Sect,</hi> whereby they counted the gene<g ref="char:EOLhyphen"/>ral practice of others a laudable and ſuffi<g ref="char:EOLhyphen"/>cient ground for their <hi>contrary</hi> opinion,</p>
+            <p>But then, 2. The practice of <hi>Chriſtians</hi> is moſt clear from the beſt Hiſtorians, that they built and ſeparated <hi>places</hi> for Gods publick Service from time to time, when the perſecutions of the Age did not reſtrain them.</p>
+            <p>Saint <hi>Luke</hi> obſerves that in the Apoſtles
+<pb n="10" facs="tcp:100510:9"/>days they <hi>broke Bread,</hi>
+               <note place="margin">Acts 2.</note> that is, celebrated the Holy Sacrament from houſe to houſe. <hi>Beza</hi> may be my Author, that He there means Houſes ſet apart to that purpoſe: And yet Dr. <hi>Hammond</hi> hath more probably conjectured, that the Phraſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is no more than <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. in the Houſe, that is the <hi>Houſe</hi> of God, the <hi>Temple, where</hi> (the ſame Saint <hi>Luke</hi> had ſaid before) <hi>they were continually;</hi>
+               <note place="margin">
+                  <hi>St.</hi> Luke 24.</note> and that the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>upper room</hi> where the Apoſtles were aſſembled, <hi>Acts</hi> 1.13. was one of thoſe <hi>Chambers</hi> be<g ref="char:EOLhyphen"/>longing to the <hi>Temple</hi> (ſpoken of in 1 <hi>Chron.</hi> 28.11.) which they devoted to the publick exerciſe of their Religion, till the <hi>Jews</hi> maliciouſly turned them out. However it is reaſonable to believe that thoſe vaſt ſummes of money <hi>laid down at the Apoſtles feet</hi> were not ſo wholly expen<g ref="char:EOLhyphen"/>ded upon the <hi>poor,</hi>
+               <note place="margin">Acts 4.35.</note> but a competent part was reſerved to maintain the Decency of Gods Service in the <hi>Sanctuary.</hi> It is more then probable from Saint <hi>Pauls</hi> words, that there was a <hi>Church</hi> built at <hi>Corinth</hi> early, 1 <hi>Cor.</hi> 11.22. <hi>Have ye not houſes to eat and to drink in? or deſpiſe ye the Church of God, and ſhame them that have not?</hi> for not only the oppoſi<g ref="char:EOLhyphen"/>tion between private <hi>Houſes</hi> and the pub<g ref="char:EOLhyphen"/>lick
+<pb n="11" facs="tcp:100510:9"/>
+               <hi>Church,</hi> but alſo the difference be<g ref="char:EOLhyphen"/>tween ſhaming the poor, and deſpiſing the <hi>Church,</hi> ſeems to require, that <hi>Church</hi> there ſignifies the <hi>Place,</hi> and not the <hi>People;</hi> the moſt that can be urged to the contrary is, that the Tyranny of thoſe times would not probably ſuffer them to erect many Churches, but that they were neceſſitated to make uſe of ſome convenient Room in an ordinary Houſe ſome times for their Religious Worſhip. What then? it does not follow, but that thoſe Rooms were preſently ſeparated from all former and <hi>common</hi> uſes, and thenceforth became <hi>Holy</hi> Places.</p>
+            <p>That ſucceeding ages, were never with<g ref="char:EOLhyphen"/>out decent places for Divine Service, is queſtioned by none but a few <hi>Enthuſiasts</hi> that cite <hi>Arnobius</hi> and <hi>Lactantius</hi> their wri<g ref="char:EOLhyphen"/>tings in defence of Chriſtianity againſt the <hi>Gentiles,</hi> becauſe they ſay, the <hi>Chriſtians had then no Temples:</hi> but the fallacy lies in the word <hi>Temples</hi> ſignifying <hi>Stately Fabricks,</hi> built to magnifie their religion, which they were not in a condition to compaſſe then, their <hi>purſes</hi> running low, and their <hi>Profeſſion</hi> being diſcouraged by the <hi>hi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:100510:10"/>Powers.</hi> But all this while they can be no more ſuppoſed to have wanted places for their Aſſemblies, than to have been no Chriſtians. And yet by theſe mens good leave, the Chriſtians had their <hi>Baſilica</hi> or <hi>Temples</hi> long before <hi>Conſtantines</hi> time, as <hi>Eu<g ref="char:EOLhyphen"/>ſebius</hi> and others do aſſure us, which were demoliſhed under <hi>Diocleſian.</hi> Nay <hi>Lactantius</hi> himſelf ſomewhere ſpeaks of ſuch an one in <hi>Nicomedia; Ego cum in Bithynia oratorias Li<g ref="char:EOLhyphen"/>teras docerem, contigit ut codem tempore Dei</hi> Templum <hi>everteretur</hi>— that is, in the ſame perſecution. He that would be fur<g ref="char:EOLhyphen"/>ther ſatisfied in this matter, may conſult <hi>Euſubius</hi> his Eccl. Hiſtory;
+<note place="margin">Lab. 10. ch. 3.</note> where he will find, that when that dreadfull ſtorme was blown over, and the Churches had reſt, and peace, <hi>Temples</hi> were preſently rebuilt out of the ruines of their old Foun<g ref="char:EOLhyphen"/>dations, and high Feſtivities appointed at their <hi>Eucoenia,</hi> or new <hi>Dedication,</hi> which by the tenure of his relation appears to have been a moſt ancient Cuſtom, being in all places (as it were) <hi>naturally</hi> obſerved. No coſt was ſpared to ſhew their chearful affection, no thing was thought too dear to part with for ſo laudable a work; the whole World ſeemed to triumph in ha<g ref="char:EOLhyphen"/>ving
+<pb n="13" facs="tcp:100510:10"/>occaſion to pour out their gifts for ſo bleſſed a purpoſe. That forward devoti<g ref="char:EOLhyphen"/>on,
+<note place="margin">1 Chron. 29.</note> thoſe free-will offerings which <hi>David</hi> once <hi>rejoyced</hi> exceedingly to behold in the <hi>Jews</hi> on ſuch an accompt, was then every where viſible amongſt the <hi>Chriſtians.</hi> The ſame Author tells us, that when <hi>Constan<g ref="char:EOLhyphen"/>tine</hi> had finiſhed a magnificent Houſe for Gods Service at <hi>Jeruſalem,</hi> the greateſt part of the Biſhops in Chriſtendom met toge<g ref="char:EOLhyphen"/>ther, at his ſummons, for the more ſo<g ref="char:EOLhyphen"/>lemn <hi>Dedication</hi> thereof. As it greived <hi>Davids</hi> royall <hi>heart</hi> to <hi>think,</hi> that Himſelf <hi>ſhould dwell in an Houſe of Cedar, and the Ark of God still remain within Curtaines;</hi>
+               <note place="margin">2 Sam. 7.2.</note> So this pious <hi>Emperour</hi> convinced the World by his Example, as well as <hi>Edict,</hi> that it was a ridiculous fancy in men to think that God ſhould delight to dwell beggarly, and took no pleaſure in their ſervices, unleſs performed in ſome ordinary <hi>Barn,</hi> or thatched <hi>Cottage.</hi> And certainly it is moſt ſuitable, decent and fit for the greatneſs and <hi>Majeſty</hi> of <hi>Jeſus Christ,</hi> (who is now no longer in the form of a ſervant,
+<note place="margin">Philip. 2.7.</note> but <hi>Lord of all</hi>) and the ſublimity of his <hi>Goſ<g ref="char:EOLhyphen"/>pel,</hi> to worſhip Him in the <hi>beauty of holineſs,</hi>
+               <note place="margin">1 Chron. 16.29.</note> unleſs we think as meanly of him, as the
+<pb n="14" facs="tcp:100510:11"/>Apoſtate <hi>Julian's</hi> Officers did, who when they ſaw the vaſt price of the veſſels be<g ref="char:EOLhyphen"/>longing to his ſervice, ſaid blaſphemouſly, <hi>what a deal of doe and charge is here for the honour of</hi> Mary's <hi>Son?</hi> or are content (which <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſcorned) to ſerve God with that <hi>which coſts us nothing.</hi>
+               <note place="margin">2 Sam. 24.</note>
+            </p>
+            <p>Now the matter of <hi>fact</hi> being ſo fully e<g ref="char:EOLhyphen"/>vident, it will be no great difficulty to re<g ref="char:EOLhyphen"/>ſolve the Queſtion <hi>de Jure,</hi> by what right and warrant both <hi>Jews</hi> and <hi>Christians</hi> have in their ſeverall times devoted and ſet a<g ref="char:EOLhyphen"/>part places for the divine worſhip? ſuppo<g ref="char:EOLhyphen"/>ſing there be no expreſs Command in Gods Law for it, either in the Old or New Teſtament, what then? That there is no Caveat put in againſt it, is ſuffici<g ref="char:EOLhyphen"/>ent to authorize an action laudable in it's ſelf, nay directly tending to the advance<g ref="char:EOLhyphen"/>ment of Gods Glory, and neceſſary to the preſerving of the well-being of his Church; and to ſcruple the lawfulneſs of ſuch an act for want of a poſitive command, were to queſtion whether God gave his Law to reaſonable or unreaſonable creatures. Be<g ref="char:EOLhyphen"/>ſides there is an implicit command at leaſt, and God would never have enjoyned all the <hi>Jews</hi> to <hi>reverence his Sanctuaries,</hi> were
+<pb n="15" facs="tcp:100510:11"/>they to have but one, that is, the <hi>Temple;</hi> nor can it be imagined that an Ocean ſhould be contained in a narrow Bucket; I mean that the Children of <hi>Iſrael</hi> who were as the <hi>Sands of the Sea</hi> for multitude,
+<note place="margin">Iſai. 10.22.</note> could all find room in one <hi>Temple,</hi> of no great confines: or be reaſonably expected to have recourſe thither from the remoteſt parts of <hi>Canaan</hi> to pay their daily de<g ref="char:EOLhyphen"/>votions. No; they were required to be at <hi>Jeruſalem</hi> only at ſome high <hi>Feaſts,</hi> (ſuch as that of the <hi>Paſſover</hi>) for they had <hi>Synagogues</hi> at home wherein to celebrate their ordi<g ref="char:EOLhyphen"/>nary ſervice; and therefore, we may ob<g ref="char:EOLhyphen"/>ſerve that when the <hi>veil of the Temple was rent in twain,</hi> to let out the ceremonial Law,
+<note place="margin">
+                  <hi>St.</hi> Matt. 27.</note> as now become uſeleſs, and the <hi>Temple</hi> it ſelf at length deſtroy'd by <hi>Titus, Synagogues</hi> for Gods moral ſervice remained ſtill, and they were the true, and more immediate Ex<g ref="char:EOLhyphen"/>emplars of our <hi>Churches.</hi> Thus the <hi>Communion of Saints</hi> being one Article of the Chriſti<g ref="char:EOLhyphen"/>an Faith, they believe themſelves bound to aſſemble together frequently for the exerciſe of their common Chriſtianity, conſiſting chiefly in publick prayers and the Euchariſt, which they can no more perform without convenient places for
+<pb n="16" facs="tcp:100510:12"/>thoſe holy uſes, than a man can be ſuppoſed to walk without legs, or fly without wings. And hence they Judge themſelves obliged to found and conſecrate Churches to maintain and credit their Religion, as well as provide for the poor members of their own Body, thoſe <hi>living Temples.</hi> S. <hi>Chry<g ref="char:EOLhyphen"/>ſostome</hi> truly conſtrues the reaſon why our Saviour would not ſuffer <hi>Mary Magdelen</hi> to be reproved for her ſumptuous expence upon his Body and Perſon,
+<note place="margin">
+                  <hi>St.</hi> Matt. 26</note> which <hi>might have done much good among the Poor,</hi> to be this, that his Diſciples might underſtand them<g ref="char:EOLhyphen"/>ſelves to be bound to maintain the means and <hi>decorum</hi> of Gods ſervice as well as the <hi>Poor</hi> that attend upon it; wherefore the manner is, and ever hath been, to warm the <hi>Houſe</hi> of God in a full body with ſo<g ref="char:EOLhyphen"/>lemn Prayers, when it is newly finiſhed, and <hi>Dedicate</hi> it to his worſhip, to maintain in the minds of men a due reverence to thoſe ſacred Offices which ever after ſhall be performed therein.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> If it be demanded, by what right or title <hi>Places</hi> and <hi>Things</hi> after their <hi>Dedication</hi> and <hi>Conſecration</hi> (which are both Acts of <hi>Man</hi>) become preſently Holy? I anſwer,</p>
+            <pb n="17" facs="tcp:100510:12"/>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> 1. 'Tis by the ſame reaſon that <hi>Perſons</hi> ſolemnly deputed to miniſter and attend upon <hi>Holy</hi> Offices, are thence denominated <hi>Holy.</hi>
+            </p>
+            <p n="2">2. Places and Things ſo qualified, are <hi>holy,</hi> becauſe thereby the <hi>property</hi> is altered, they are no longer <hi>mens,</hi> but Gods own <hi>Houſes</hi> and <hi>Goods;</hi> we can no longer call our ſelves <hi>Masters</hi> of thoſe things we have already paſſed away freely by deed of <hi>Gift.</hi> If it be urged, that all theſe things were Gods before, as he is univerſal Monarch, and we cannot properly be ſaid to <hi>give</hi> Him what was already his own. I Anſwer,</p>
+            <p n="3">3. That God indeed is abſolute <hi>Lord of all,</hi> yet he hath given the Earth to the Sons of Men, and granted us a particular <hi>propri<g ref="char:EOLhyphen"/>ety</hi> to the uſe of thoſe things; and this is that we out of pious ends return to God a<g ref="char:EOLhyphen"/>gain, receding from that <hi>Right,</hi> and freely and ſolemnly excluding our ſelves and all other men from any future <hi>title</hi> thereunto. But,</p>
+            <p n="4">4ly, and Laſtly, as under the Law,
+<note place="margin">
+                  <hi>St.</hi> Matt. 23.19.</note> 
+               <hi>the Gift was ſanctified by the Altar,</hi> ſo amongſt
+<pb n="18" facs="tcp:100510:13"/>Chriſtians; all their acts of <hi>Piety</hi> and <hi>Chari<g ref="char:EOLhyphen"/>ly,</hi> whether publick or private, are <hi>ſanctified</hi> and accounted <hi>holy</hi> by God through the <hi>Croſs</hi> of Chriſt typified by their <hi>Altar,</hi> but more lively repreſented and commemora<g ref="char:EOLhyphen"/>ted in our Sacrament of the <hi>Euchariſt,</hi> which is the chief part of Gods Service under the Goſpel, and proper only to Chriſtians; and ſo I paſs on to the third and laſt En<g ref="char:EOLhyphen"/>quiry.</p>
+            <p n="3">III. How far forth Places ſo <hi>Dedicated</hi> ought to be eſteemed <hi>Holy?</hi> In anſwer to which I ſay,</p>
+            <p n="1">1. There is no man ſo abſurd and ridi<g ref="char:EOLhyphen"/>culous as to think <hi>Churches</hi> capable of that <hi>Holineſs</hi> whereby Chriſtian Souls are made <hi>Holy.</hi> For <hi>Holineſs</hi> in men is a part of the Image of God, once defaced, but ſince re<g ref="char:EOLhyphen"/>newed and ſtamped again upon his reaſo<g ref="char:EOLhyphen"/>nable creatures; and to imagine <hi>Wood</hi> and <hi>Stone</hi> capable of receiving the leaſt Im<g ref="char:EOLhyphen"/>preſſion of the <hi>Divine Image,</hi> the darkeſt reſemblance of his Infinite <hi>Perfections,</hi> were the ready way to <hi>Idolatry.</hi> And therefore,</p>
+            <p n="2">2. The <hi>Holineſs</hi> we aſcribe to the Houſes
+<pb facs="tcp:100510:13"/>of God, (common to all other <hi>conſecrated</hi> Things, Times, and Perſons) is meerly <hi>Relative</hi> and <hi>Eccleſiaſtical;</hi> the formal reaſon whereof, is, their deputation to the <hi>Holy</hi> Ordinances of <hi>Divine Service.</hi> For here daiſy <hi>Prayers</hi> are made to the <hi>Father</hi> of <hi>Mercies;</hi> here <hi>Thanks</hi> and <hi>Praiſe</hi> are ſolemnly offered for all his Benefits; here his <hi>Holy Word</hi> is <hi>read</hi> and <hi>preached</hi> for our edification and comfort; here that <hi>Tremendum Evangelii My<g ref="char:EOLhyphen"/>ſterium</hi> (as St. <hi>Austine</hi> calls the Sacrament of our Lords <hi>Body</hi> and <hi>Blood</hi>) is often cele<g ref="char:EOLhyphen"/>brated; and in reference to theſe <hi>Spiritual</hi> Duties, the <hi>Place</hi> it ſelf is deſervedly repu<g ref="char:EOLhyphen"/>ted and ſtyled <hi>Holy.</hi>
+            </p>
+            <p>Now this <hi>Holineſs</hi> and Majeſty of the Place hath, in regard of us, great vertue, force, and efficacy.</p>
+            <p>For 1. It requireth of us a <hi>negative reve<g ref="char:EOLhyphen"/>rence</hi> due thereto, that men ſhould abſtain from all light, vain, or ſecular buſineſſes therein, from which it was ſequeſtred by its firſt <hi>Dedication.</hi>
+            </p>
+            <p>As for things morally evil in themſelves (ſuch as lying, ſtealing, killing, blaſphe<g ref="char:EOLhyphen"/>ming,
+<pb facs="tcp:100510:14"/>&amp;c.) they are unlawfull to be done in any place, but moſt of all in Gods <hi>Houſe,</hi> the profanation whereof adds a new cir<g ref="char:EOLhyphen"/>cumſtance, an eminent aggravation to the <hi>Sin.</hi> One fearful inſtance of this nature, our Saviour chargeth thoſe <hi>Jews,</hi> as anſ<g ref="char:EOLhyphen"/>werable for; namely, the death of <hi>Zachari<g ref="char:EOLhyphen"/>as,</hi> not only a Prieſt, a <hi>holy Perſon,</hi> (but to add more weight to the fact ſtill) <hi>ſlain be<g ref="char:EOLhyphen"/>tween the Temple and the Altar</hi> too,
+<note place="margin">
+                  <hi>St.</hi> Matt. 23.35.</note> in an <hi>holy place,</hi> And I doubt amongſt other circum<g ref="char:EOLhyphen"/>ſtances of the late <hi>Scotiſh</hi> Covenant (beſides that it was peccant in the matter and ſub<g ref="char:EOLhyphen"/>ſtance) that will one day be found to be none of the leaſt, that it was generally ta<g ref="char:EOLhyphen"/>ken in Churches. But I muſt vindicate theſe ſacred places not only from ſinfull and unworthy actions, but from ſuch as are of an indifferent nature alſo, <hi>lawfull</hi> enough elſewhere, but prophane, if done in the Houſe of God, ſet apart for holy offices. And our Saviour's own Example is my warrant for it,
+<note place="margin">
+                  <hi>St.</hi> Matt. 21.12.</note> who <hi>drove all the Buy<g ref="char:EOLhyphen"/>ers, and Sellers, and Trapezytes out of the Tem<g ref="char:EOLhyphen"/>ple;</hi> thereby intimating, that even <hi>civil</hi> traffique and commerce (though in order to <hi>ſacred</hi> ends, for the Sheep and Oxen, ſold there, were for Sacrifice) defileth his <hi>Houſe of Prayer.</hi>
+            </p>
+            <pb facs="tcp:100510:14"/>
+            <p n="2">2. Beſides this Negative, there is alſo a <hi>poſitive reverence</hi> due to the <hi>Houſe</hi> of God. Our <hi>Church</hi> hath well provided, that <hi>by the reve<g ref="char:EOLhyphen"/>rence of our outward geſtures at the divine ſervice, our inward and hearty duty to God and his ordi<g ref="char:EOLhyphen"/>nances, ſhould be expreſſed and maintained.</hi> And ſo much is implied in St. <hi>Pauls</hi> own pre<g ref="char:EOLhyphen"/>cept, <hi>Glorifie God in your Body and in your Spirit,
+<note place="margin">1 Cor. 6.20.</note> which are Gods.</hi> They are a little too ſuper<g ref="char:EOLhyphen"/>ſtitious, who will allow the <hi>Church</hi> to be no longer an holy place, than whilſt the <hi>Saints</hi> are in it; as if they carried away the <hi>Holineſs</hi> thereof home with them. Ye know, all men ſtand bare in the Chamber of <hi>Preſence,</hi> though the King be <hi>abſent;</hi> how much more reaſon then have we to expreſs our humility and ſubjection to the <hi>ſupreme MAJESTY</hi> of Heaven, who is never <hi>abſent,</hi> but always preſent here, even in the Intervals of his daily <hi>Service.</hi>
+            </p>
+            <p>To all this I add, that the <hi>Holineſs</hi> of conſecrated <hi>Places</hi> and <hi>Things</hi> is ſuch, that it is no leſs than <hi>Sacrilege</hi> to apply them to any <hi>prophane</hi> uſe. <hi>Quod ſemel dicatum eſt Deo, amplius ad profanos uſus tranſferri non debet;</hi> — was once current Law amongſt Chriſti<g ref="char:EOLhyphen"/>ans. And Things given to the Church,
+<pb facs="tcp:100510:15"/>were ſaid of old to be conſign'd <hi>in manus mor<g ref="char:EOLhyphen"/>tuas;</hi> to intimate, that the <hi>Clergy</hi> had no more power to alienate them <hi>de Jure,</hi> then a <hi>dead man</hi> hath <hi>de Facto.</hi>
+               <note place="margin">Dr. <hi>Baſ.</hi> of the Sacr. <hi>pag.</hi> 86. Hag. 1.6. Dr. <hi>Baſ.</hi> p. 118. Sr. <hi>H. Spelm.</hi> de nov. tem. Eccleſ. p. 88. &amp; <hi>Cl. Spelm.</hi> to the Reader. p. 45. <hi>Reyner.</hi> fol. 127.</note> So that <q>let modern projectors (ſaies one) build <hi>Babels</hi> never ſo high, if they be reared on the ruines of <hi>Sion,</hi> 'tis putting their <hi>Gains</hi> into the Pro<g ref="char:EOLhyphen"/>phets <hi>Bag</hi> with <hi>Holes;</hi> both Fabrick and Founder will ſink together at laſt, and come to nothing.</q> And it is obſerved by <hi>Him</hi> and <hi>other</hi> modern Authors, that many of thoſe Families who purchaſed Abbey-Lands, are ſince extinct, or their <hi>Lands</hi> ſold to buy <hi>Bread.</hi> However thus much I am aſ<g ref="char:EOLhyphen"/>ſur'd of,
+<note place="margin">Levit. 27.28.</note> that men were free by the old <hi>Law,</hi> to <hi>devote their Lands to the Lord,</hi> or keep them to themſelves; but when once they had devoted them, they themſelves could not call them back, under a <hi>Curſe.</hi> Nor can I find any great difference between the ſin of <hi>Achan, Joſh.</hi> 7.21. and that of <hi>Ananias</hi> &amp; <hi>Sa<g ref="char:EOLhyphen"/>phira, Act.</hi> 5.3. for they are convicted by the Apoſtle there, not only for <hi>lying to the holy Ghoſt,</hi> but for <hi>keeping back part of the price of the Land,</hi> given to maintain the Church in the communion of Gods Service. From whence it followeth, that, that which is <hi>conſecrated</hi> to Gods Service under the <hi>Goſpel,</hi> is <hi>Anathe<g ref="char:EOLhyphen"/>ma,</hi>
+               <pb n="23" facs="tcp:100510:15"/>for the ſame reaſon as under the <hi>Law,</hi> becauſe the thing is <hi>accurſed</hi> to them that withdraw, and rob God thereof.</p>
+            <p>And now what remains, but that we make ſome practical Inferences upon this whole matter. And,</p>
+            <p n="1">1. From the firſt Enquiry reſolved, I infer, That if the Temple and the Altar were <hi>Dedicated</hi> by <hi>Judas</hi> and his Brethren, and commemorated by an Annual Feaſt, and that approved alſo by our Saviours own preſence as it, though it pretended to no more than <hi>humane</hi> Inſtitution: then let no man charge us with ſuperſtition, if we upon occaſion follow their Example, to maintain and cheriſh in the minds of men that reverence due to Places <hi>conſecrated</hi> to God Almighties Service, and to the ho<g ref="char:EOLhyphen"/>ly Offices to be performed therein.</p>
+            <p n="2">2. From the Second, I infer, That if the piety and Bounty of <hi>others</hi> have built, repaired, and adorned <hi>Places</hi> for our Reli<g ref="char:EOLhyphen"/>gious Aſſemblies, we ſhould be beyond parallel Ingratefull to them, (not to ſay contemptuous to God, ſhould we not <hi>remem<g ref="char:EOLhyphen"/>ber
+<pb n="24" facs="tcp:100510:16"/>them concerning this,</hi>
+               <note place="margin">Prov. 31.31.</note> and ſuffer their own <hi>works to praiſe them in the Gates. Say not thou</hi> (ſaies Solomon) <hi>what is the cauſe that the former daies were better than theſe?
+<note place="margin">Eccleſ. 7.10.</note> for thou en<g ref="char:EOLhyphen"/>quireſt not wiſely concerning this. Times</hi> have ſometimes changed for the worſe; but that they muſt needs do ſo always, is no good conſequence; for I muſt obſerve (in ſpight of all <hi>popular</hi> murmurs and clamours to the contrary) that the <hi>former daies</hi> we ſpoke of,
+<note place="margin">P. 1.</note> were far worſe than <hi>Theſe,</hi> as in many others, ſo in this reſpect alſo, that the ſober &amp; wiſer part of men amongſt us now do not only <hi>abhor Popiſh Idols,</hi> but <hi>deteſt</hi> Fanatick <hi>Sacrilege</hi> too. They take more ſo<g ref="char:EOLhyphen"/>lid pleaſure and ſatisfaction in <hi>building</hi> and adorning <hi>Churches,</hi> than any of thoſe blind <hi>Zealots</hi> did in plucking them <hi>down</hi> as <hi>cumber<g ref="char:EOLhyphen"/>ing the ground.</hi> And this Kings Reign is like<g ref="char:EOLhyphen"/>ly to be as famous to after-ages for their Repairing, and Reſtauration, as that Rebel<g ref="char:EOLhyphen"/>lion was for their ruine. And bleſſed be the Lord God who hath <hi>put</hi> it into your Hearts alſo vindicate the Honour of his <hi>Houſe</hi> and <hi>Name,</hi> and to <hi>Dedicate</hi> part of your ſubſtance to his <hi>Sanctuary</hi> (of your own meer motion, and good will) in reſtoring this Sacred, Ancient, Curious Pile to, yea
+<pb n="25" facs="tcp:100510:16"/>and beyond its primitive Luſtre, that your <hi>Second Temple</hi> alſo might <hi>be more glorious</hi> than the firſt, even in the literal ſence. Hereby all the world may ſee, and know that you have a due and juſt ſence of Gods diſcriminating Mercy, in ſparing this his <hi>Houſe</hi> out of two ſeveral conſu<g ref="char:EOLhyphen"/>ming <hi>Fires,</hi> that more than threatned it; as if He had ſaid to them <hi>both, thus far ſhall ye go and no farther;</hi> and to the deſtroying Angel, <hi>It is enough, ſtay now thine hand!</hi>
+               <note place="margin">2. Sam. 24.</note>
+            </p>
+            <p>And may this goodly Structure be ſtill Armor of proof againſt all future <hi>Caſualties</hi> to tranſmit your <hi>Praiſe</hi> and Bounty to all poſterity; but chiefly to preſerve Gods <hi>Glory</hi> and <hi>Worſhip</hi> in the <hi>beauty of Holineſs,</hi> even till that general <hi>Conflagration</hi> of all things, when this great <hi>Machine</hi> of the World ſhall be diſſolved, and <hi>Time</hi> it ſelf <hi>ſhall be no more,</hi> but go out like <hi>Fire,</hi> and be extinguiſhed in the bottomleſs Ocean of <hi>Eternity!</hi>
+            </p>
+            <p n="3">3. And laſtly, from the laſt Enquiry reſolved, I infer, that, if theſe conſecrated Places be <hi>Holy,</hi> then let us beware of pol<g ref="char:EOLhyphen"/>luting or prophaning them in any wiſe.
+<pb facs="tcp:100510:17"/>
+               <hi>Put off thy ſhoes from thy feet,</hi> (ſaies God to Moſes) <hi>for thou standeſt on holy ground.</hi> Ex. 3.5. And his Command by <hi>Solomon,</hi> reacheth us alſo,
+<note place="margin">Eccles. 5.1.</note> 
+               <hi>Keep thy foot when thou goeſt into the Houſe of God.</hi> A <hi>Motto</hi> generally written over the door of the <hi>Synagogue,</hi> ſaith <hi>Buxtorf.</hi> The very Heathen Idolaters were not without ſome ſence of this; for when the <hi>Ark of God was by the</hi> Philiſtims <hi>ſet in the Temple of</hi> Dagon, Dagon <hi>fell down; and becauſe by that miſchance</hi> Dagons <hi>head and hands were cut off by the thre<g ref="char:EOLhyphen"/>ſhold of the door, therefore neither Priest, nor Peo<g ref="char:EOLhyphen"/>ple durſt ever tread on that threſhold more.</hi>
+               <note place="margin">1. Sam. 5.</note> And of the many typical precepts in <hi>Leviticus,</hi> that the <hi>Iſraelites</hi> ſhould <hi>waſh and cleanſe</hi> them<g ref="char:EOLhyphen"/>ſelves by divers <hi>cenemonies</hi> before they enter into the <hi>Sanctuary,</hi> we ought to make this <hi>Moral,</hi> that Chriſtianity requireth us to <hi>waſh our Souls</hi> from all that filch of luſt and paſſion before we preſume to enter into the <hi>Holy</hi> Place. Be we therefore <hi>more ready to hear</hi> (ſays <hi>Solemon</hi>) <hi>than to offer the ſacrifice of fools,</hi>
+               <note place="margin">Eccle. 5.1.</note> who are raſh, heady, and preſumptuous, and think their Sin is expiated for, though they never think to change their wicked minds. For they that come hither with malicious <hi>hearts,</hi> and polluted hands, and bring their <hi>Gift to the Altar</hi> with ſo lit<g ref="char:EOLhyphen"/>tle
+<note place="margin">
+                  <hi>St.</hi> Matt. 5.</note>
+               <pb n="27" facs="tcp:100510:17"/>Charity that they are ready (like <hi>Cain</hi>) to ſprinkle it with their <hi>Brothers</hi> Blood, do make the <hi>Houſe</hi> of prayer a <hi>Den</hi> of Thieves indeed, and turn the <hi>Church</hi> of God into the Devils <hi>Chappel,</hi>
+               <note place="margin">Revel. 3.9.</note> the Lords <hi>Sanctua<g ref="char:EOLhyphen"/>ry</hi> into the <hi>Synagogue</hi> of Satan.</p>
+            <q>— Procul, O Procul ite prophani. —</q>
+            <p>But let us all rather approach the <hi>Holy</hi> Place with <hi>holy</hi> and humble hearts, and pay our Devotions to Almighty God, not in word and tongue only,
+<note place="margin">
+                  <hi>St.</hi> John 4.23.</note> but <hi>in Spirit and Truth,</hi> as becometh thoſe who are <hi>living Temples of the Holy Ghoſt;</hi> that ſo our daily <hi>Sacrifices</hi> may be as <hi>ſweet Incenſe,</hi> our Sins pardoned, our Prayers, Alms, and Perſons accepted, and all our hearty performances Crowned at the laſt day with an <hi>Euge—well done good and faithful Servants,
+<note place="margin">
+                     <hi>St.</hi> Matt. 25.23.</note> enter ye into the Joy of your Lord:</hi> even that <hi>San<g ref="char:EOLhyphen"/>ctum Sanctorum,</hi> that everlaſting Temple <hi>not made with hands,</hi> there to ſing eternal Ha<g ref="char:EOLhyphen"/>lelujahs to the Holy Bleſſed and Glorious Trinity, the Father, Son, and Holy Ghoſt, and all through the mercy and Merits of our only Lord and Saviour <hi>JES<g ref="char:V">Ʋ</g>S CHRIST,</hi> to whom with the Father and Holy Spirit be all the Dominion, Power and Glory now and ever, <hi>Amen,</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
